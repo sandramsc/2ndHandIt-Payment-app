@@ -8,6 +8,9 @@
 ### About:
 Payment application that collects credit card information from customeers, displays customer transaction ID after submission, the backend has a customers and transactions information page.
 
+### Features:
+* Payment with credit card credentials i.e VISA, Mastercard, American Express
+
 ### Tools:
 * PHP & MSQL
    
