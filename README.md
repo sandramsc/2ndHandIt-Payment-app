@@ -6,7 +6,7 @@
     </h2>
 
 ### About:
-Payment application that collects credit card information from customeers, displays customer ID after submission, the backend has a customers and transactions information page.
+Payment application that collects credit card information from customeers, displays customer transaction ID after submission, the backend has a customers and transactions information page.
 
 ### Tools:
 * PHP & MSQL
