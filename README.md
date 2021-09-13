@@ -12,7 +12,7 @@ Payment application that collects credit card information from customeers, displ
 * Payment with credit card credentials i.e VISA, Mastercard, American Express
 
 ### Tools:
-* PHP & MSQL
+* stripeAPI, PHP & MSQL
    
   ## Sample Example
 https://user-images.githubusercontent.com/19821445/133059329-ad8be4c0-d68e-4b71-910d-76fb0dcf9fc0.mp4
