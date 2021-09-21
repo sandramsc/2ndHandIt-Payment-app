@@ -17,5 +17,5 @@ Payment application that collects credit card information from customeers, displ
   ## Sample Example
 ![payment_app]https://user-images.githubusercontent.com/19821445/133072926-5bda9385-7453-4a14-9c43-25372a47083d.mp4
 
-### Licence
+## Licence
 [![GitLicense](https://gitlicense.com/badge/sajustsmile/CS50w-Google-Search-app--HTML-CSS-work)](https://github.com/sajustsmile/CS50w-Google-Search-app--HTML-CSS-work/blob/main/LICENSE)
