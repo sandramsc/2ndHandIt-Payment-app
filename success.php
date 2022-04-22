@@ -1,3 +1,4 @@
+/* Designed & coded by Sandra Ashipala <https://github.com/sandramsc> */
 <?php
 if(!empty($_GET['tid'] && !empty($_GET['product']))) {
     $GET = filter_var_array($_GET, FILTER_SANITIZE_STRING);
