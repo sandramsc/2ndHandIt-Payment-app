@@ -1,3 +1,4 @@
+//Designed & coded by Sandra Ashipala <https://github.com/sandramsc> 
 //create stripe client//Publishable key
 var stripe = Stripe('...insert your stripe publishable api key here...');
 
