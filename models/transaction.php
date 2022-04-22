@@ -1,3 +1,4 @@
+//Designed & coded by Sandra Ashipala <https://github.com/sandramsc> 
 <?php
 
 class Transaction {
