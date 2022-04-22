@@ -1,3 +1,4 @@
+//Designed & coded by Sandra Ashipala <https://github.com/sandramsc> 
 <?php
 require_once('vendor/autoload.php');
 require_once('config/db.php');
